@@ -1,0 +1,121 @@
+Student Management Portal
+[A]dd a student
+[V]iew all students
+[F]ilter and sort students
+[E]xit the program
+v
+There are no students!
+[A]dd a student
+[V]iew all students
+[F]ilter and sort students
+[E]xit the program
+a
+Enter the name of the student: ram
+Enter the grade of the student: 6.5
+Enter the age of the student: 23
+Student added!
+[A]dd a student
+[V]iew all students
+[F]ilter and sort students
+[E]xit the program
+a
+Enter the name of the student: varun
+Enter the grade of the student: 8.7
+Enter the age of the student: 21
+Student added!
+[A]dd a student
+[V]iew all students
+[F]ilter and sort students
+[E]xit the program
+a
+Enter the name of the student: santhosh
+Enter the grade of the student: 8.6
+Enter the age of the student: 21
+Student added!
+[A]dd a student
+[V]iew all students
+[F]ilter and sort students
+[E]xit the program
+a
+Enter the name of the student: deepak
+Enter the grade of the student: 9.8
+Enter the age of the student: 21
+Student added!
+[A]dd a student
+[V]iew all students
+[F]ilter and sort students
+[E]xit the program
+a
+Enter the name of the student: vijay
+Enter the grade of the student: 7.4
+Enter the age of the student: 21
+Student added!
+[A]dd a student
+[V]iew all students
+[F]ilter and sort students
+[E]xit the program
+a
+Enter the name of the student: vishal
+Enter the grade of the student: 2.0
+Enter the age of the student: 21
+Student added!
+[A]dd a student
+[V]iew all students
+[F]ilter and sort students
+[E]xit the program
+a
+Enter the name of the student: dhanush
+Enter the grade of the student: 9.9
+Enter the age of the student: 21
+Student added!
+[A]dd a student
+[V]iew all students
+[F]ilter and sort students
+[E]xit the program
+a
+Enter the name of the student: aswin
+Enter the grade of the student: 8.3
+Enter the age of the student: 21
+Student added!
+[A]dd a student
+[V]iew all students
+[F]ilter and sort students
+[E]xit the program
+v
+Name: ram, Grade: 6.5, Age: 23
+Name: varun, Grade: 8.7, Age: 21
+Name: santhosh, Grade: 8.6, Age: 21
+Name: deepak, Grade: 9.9, Age: 21
+Name: vijay, Grade: 7.4, Age: 21
+Name: vishal, Grade: 2.1, Age: 21
+Name: dhanush, Grade: 9, Age: 21
+Name: aswin, Grade: 8.9, Age: 21
+[A]dd a student
+[V]iew all students
+[F]ilter and sort students
+[E]xit the program
+f
+Enter the grade threshold: 8
+Name: deepak, Grade: 9.9, Age: 21
+Name: dhanush, Grade: 9, Age: 21
+Name: aswin, Grade: 8.9, Age: 21
+Name: varun, Grade: 8.7, Age: 21
+Name: santhosh, Grade: 8.6, Age: 21
+[A]dd a student
+[V]iew all students
+[F]ilter and sort students
+[E]xit the program
+f
+Enter the grade threshold: 4
+Name: deepak, Grade: 9.9, Age: 21
+Name: dhanush, Grade: 9, Age: 21
+Name: aswin, Grade: 8.9, Age: 21
+Name: varun, Grade: 8.7, Age: 21
+Name: santhosh, Grade: 8.6, Age: 21
+Name: vijay, Grade: 7.4, Age: 21
+Name: ram, Grade: 6.5, Age: 23
+[A]dd a student
+[V]iew all students
+[F]ilter and sort students
+[E]xit the program
+e
