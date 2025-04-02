@@ -1,0 +1,23 @@
+// When input is positive number
+Enter a number: 6
+The factorial of 6 is 720
+
+// When input is 0
+Enter a number: 0
+The factorial of 0 is 1
+
+// When factorial output is very large
+Enter a number: 20
+The factorial of 20 is 2432902008176640000
+
+// When input is negative
+Enter a number: -8 
+Factorial cannot be calculated for a negative number!
+
+// When no input is given - Empty string
+Enter a number: 
+Enter a valid number!
+
+// When input is not a number
+Enter a number: number
+Enter a valid number!
