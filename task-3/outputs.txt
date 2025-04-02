@@ -1,0 +1,125 @@
+Todo Application!
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+dasld
+Enter a valid input!
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+v
+
+
+No tasks to do!
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+A
+
+
+Enter task name: 
+clean house
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+v
+
+
+[1] clean house
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+a
+
+
+Enter task name: 
+   finish work
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+v
+
+
+[1] clean house
+[2] finish work
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+r
+
+
+Enter the task number to be removed: 
+1
+Removed Task!
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+v
+
+
+[1] finish work
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+r
+
+
+Enter the task number to be removed: 
+2
+Invalid task number!
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+r
+
+
+Enter the task number to be removed: 
+1
+Removed Task!
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+r
+
+
+Nothing to remove!
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+e
