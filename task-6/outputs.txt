@@ -1,0 +1,4 @@
+Wow! The number 8 is Even
+Wow! The number 20 is Even
+Wow! The number 30 is Even
+Wow! The number 52 is Even
