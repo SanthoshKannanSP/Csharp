@@ -1,0 +1,150 @@
+Todo Application!
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+v
+
+
+There are no todos to show!
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+a
+
+
+Enter task name: 
+clean room
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+a
+
+
+Enter task name: 
+finish work
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+v
+
+
+[1] clean room
+[2] finish work
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+r
+
+
+Enter the task number to be removed: 
+1
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+v
+
+
+[2] finish work
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+r
+
+
+Enter the task number to be removed: 
+10
+There is no such task!
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+a
+
+
+Enter task name: 
+read book 
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+v
+
+
+[2] finish work
+[3] read book
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+r
+
+
+Enter the task number to be removed: 
+2
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+r
+
+
+Enter the task number to be removed: 
+3
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+v
+
+
+There are no todos to show!
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+r
+
+
+Enter the task number to be removed: 
+1
+There is no such task!
+
+
+[V]iew all tasks
+[A]dd a new task
+[R]emove a task
+[E]xit the program
+e
