@@ -1,0 +1,30 @@
+This is a runnable method
+The current number is 52
+Logging to file log.txt
+This is a runnable method
+The current number is 107
+Logging to file log.txt
+This is a runnable method
+The current number is 122
+Logging to file log.txt
+This is a runnable method
+The current number is 216
+Logging to file log.txt
+This is a runnable method
+The current number is 272
+Logging to file log.txt
+This is a runnable method
+The current number is 330
+Logging to file log.txt
+This is a runnable method
+The current number is 424
+Logging to file log.txt
+This is a runnable method
+The current number is 469
+Logging to file log.txt
+This is a runnable method
+The current number is 511
+Logging to file log.txt
+This is a runnable method
+The current number is 558
+Logging to file log.txt
